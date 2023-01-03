@@ -4,3 +4,8 @@ p{
 div{
     background-color: skyblue;
 }
+h3{
+    font-weight: 900;
+    background-color: red;
+    padding: 0%;
+}
